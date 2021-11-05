@@ -3,4 +3,3 @@ This repository will follow the creation of a responsive design web page using M
 
 **Figma:** https://www.figma.com/file/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=81%3A132
 This link contains the project design which gives us an idea of the final product.
-
